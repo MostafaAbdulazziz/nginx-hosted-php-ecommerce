@@ -1,4 +1,7 @@
 # Nginx Deployment for PHP-Powered eCommerce Website
+<img width="1850" height="902" alt="image" src="https://github.com/user-attachments/assets/a79e318b-326b-4a5e-b6bb-af70b187c5dc" />
+
+
 
 ## Installation
 
@@ -88,6 +91,7 @@ sudo chown -R www-data:www-data /var/www/html/
 sudo systemctl start mariadb php8.4-fpm nginx
 sudo systemctl enable mariadb php8.4-fpm nginx
 ```
+<img width="1390" height="633" alt="image" src="https://github.com/user-attachments/assets/14ed1cf2-69c3-4423-a5d9-72af54c1f9be" /> <img width="1184" height="370" alt="image" src="https://github.com/user-attachments/assets/7262fff2-e343-4f8e-9abe-facba9cbcb75" />
 
 ### Test
 ```bash
